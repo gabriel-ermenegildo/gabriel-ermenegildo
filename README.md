@@ -10,7 +10,7 @@ Estudante do 2º ano de Bacharelado em Inteligência Artificial na Unimar e anal
 
 **[spam-sms-classifier](https://github.com/luizchicarelli/spam-sms-classifier)**: classificador de SMS (spam × legítima) com scikit-learn. Fui responsável pelo desenvolvimento do modelo: pré-processamento, TF-IDF com uni e bigramas, comparação entre Naive Bayes, Regressão Logística e SVM linear com GridSearchCV e validação cruzada estratificada, e deploy em Streamlit. Modelo final com F1 de 0,95 e AUC-PR de 0,98 no conjunto de teste. [App publicado](https://spam-sms-classifier-grupo5.streamlit.app/)
 
-**[telecontrol-os-recommender-cbr](https://github.com/gabriel-ermenegildo/telecontrol-os-recommender-cbr)**: sistema de recomendação para ordens de serviço baseado em raciocínio por casos (CBR). Atuei no squad de QA, com testes do fluxo completo, validação de erros e documentação.
+**[telecontrol-os-recommender-cbr](https://github.com/gabriel-ermenegildo/telecontrol-os-recommender-cbr)**: agente de suporte à decisão que classifica relatos de clientes com Machine Learning e recomenda soluções por Raciocínio Baseado em Casos (CBR). Atuei no squad de QA, com testes do fluxo completo, validação de erros e documentação.
 
 ## Contato
 
