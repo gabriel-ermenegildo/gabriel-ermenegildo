@@ -2,9 +2,11 @@
 
 Estudante do 2º ano de Bacharelado em Inteligência Artificial na Unimar e analista de suporte web na MMA (Fábrica de Códigos), onde trabalho com integrações de marketplaces, ERPs e transportadoras. Estou construindo minha base para atuar como AI Engineer.
 
-**Stack:** Python (Pandas, scikit-learn), SQL, APIs REST
+**Stack:** Python (Pandas, scikit-learn), LLMs (Gemini), RAG (ChromaDB, embeddings), spaCy, Streamlit, pytest, SQL, APIs REST
 
 ## Projetos
+
+**[smartfaq](https://github.com/gabriel-ermenegildo/smartfaq)**: FAQ inteligente com RAG sobre atendimento em UBS/postos de saúde de Marília (vacinação, documentos, agendamento), respondendo só com base em fontes oficiais. Projeto em grupo dividido em três duplas; atuei na dupla do núcleo de RAG: montagem do prompt com citação das fontes, guardrails antes e depois do LLM para bloquear perguntas e respostas de cunho clínico, limiar de similaridade para o sistema dizer "não encontrei" em vez de alucinar, geração da resposta com Gemini e testes automatizados do núcleo com pytest.
 
 **[AgroAssist](https://github.com/gabriel-ermenegildo/AgroAssist)**: chatbot agrícola que integra APIs oficiais da Embrapa com o Gemini 2.5 Flash. Projeto em grupo, em que fiquei responsável, junto com um colega, por toda a parte de IA/PLN.
 
